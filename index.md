@@ -21,7 +21,7 @@ The organisers hope that this competition will not only attract some really good
 
 # Eligibility
 
-The competition is open to any local band that is developing Devon-style call change ringing as part of its regular repertoire or keen to try their hands at this style of ringing. 
+The competition is open to any band that is keen to try their hands at this style of ringing. 
 
 Eligibility of band members will not be strict, but the spirit of the contest is that this is for local bands rather than bands assembling specifically to enter a competition. A ‘local band’ need not necessarily all be from the same tower though, recognising that many bands now cover a number of towers, or cluster together for learning and practice. Entries from university societies would be welcome.
  
@@ -34,8 +34,8 @@ As some bands may be travelling from far afield, the local organisers will make 
 The final programme will depend on how many teams enter but the general principle will be: 
 
 * Morning towers available in the south Birmingham area
-* Assemble at St Mary’s Moseley around noon
-* Competition ringing in the afternoon
+* Assemble at St Mary’s Moseley at noon for welcome and draw
+* Competition ringing in the afternoon, starting at 1pm
 * Ringing at St Anne’s Moseley in parallel  
 * Late afternoon tea and results (conclude by 6pm)
 * Open ringing at Moseley
@@ -83,5 +83,5 @@ The Association of Ringing Teachers has recently launched its ‘Advanced Call C
 
 # What next?
 
-Expressions of interest should be sent to [callchanges@cccbr.org.uk](mailto:callchanges@cccbr.org.uk) by 28th February. This will not be binding or an official entry, but will enable the organisers to plan the day. A formal request for entries with a firm timetable will then be made around the end of March.  
+Entries for the competition should be sent to [callchanges@cccbr.org.uk](mailto:callchanges@cccbr.org.uk).
 
