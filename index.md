@@ -39,7 +39,7 @@ The following teams have entered:
 
 # The Day and Programme
 
-As some bands may be travelling from far afield, the local organisers will make sure there is a day of ringing available, with towers in the morning, ringing on the six at St Anne’s Moseley in parallel with the competition in the afternoon, and general ringing on all 10 at St Mary’s later in the day. There will be refreshments and a beer tent available at St Mary’s throughout the day. 
+Two towers have been arranged for ringing in the morning for those travelling from the south and south west. Both are just off the M5 in Worcestershire. There will be ringing on the testing six at St Anne’s Moseley in parallel with the competition in the afternoon, and general ringing on all 10 at St Mary’s later in the day. There will be refreshments and a beer tent available at St Mary’s throughout the day.
 
 The final programme will depend on how many teams enter but the general principle will be: 
 
