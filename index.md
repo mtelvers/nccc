@@ -8,7 +8,7 @@ classes: wide
 # NATIONAL CALL CHANGE COMPETITON
 {: .very-large}
 
-![](/media/moseley-st-anne.jpg){: .align-right .width-half}
+![](/media/moseley-st-mary.jpg){: .align-right .width-half}
 
 > Date:	Saturday 3rd June 2023   
 > Place:	[St Mary’s Moseley, Birmingham](https://dove.cccbr.org.uk/tower/16431) Front 6 (7cwt)
@@ -17,15 +17,25 @@ The purpose of this national open call change competition is to widen the apprec
 
 One of the Central Council’s Strategic Priorities is that method ringing should not be the only measure of success, and that good call change ringing can be a target for many bands. Ringers in the south west have demonstrated this with their culture of focus on competition call change ringing.
 
-The organisers hope that this competition will not only attract some really good exponents of competition call change ringing to come up from Devon and the South West, but also inspire other bands to focus on call change ringing and practice this particular style. 
+The competition is mixing some really good exponents of competition call change ringing from Devon and the South West, with bands more used to method ringing.
 
-# Eligibility
+# Entries
 
-The competition is open to any band that is keen to try their hands at this style of ringing. 
+The following teams have entered:
 
-Eligibility of band members will not be strict, but the spirit of the contest is that this is for local bands rather than bands assembling specifically to enter a competition. A ‘local band’ need not necessarily all be from the same tower though, recognising that many bands now cover a number of towers, or cluster together for learning and practice. Entries from university societies would be welcome.
- 
-![](/media/moseley-st-mary.jpg){: .align-right .width-half}
+* Broadhempston, Devon
+* East Anstey, Devon
+* Bisley/Stroud Valleys, Gloucestershire
+* Tiverton, St Paul, Devon
+* Alton, Hampshire
+* Abbots Bromley, Staffordshire
+* Cheltenham, St Mark, Gloucestershire
+* Bow, Devon
+* Kingsteignton, Devon
+* Moseley, Birmingham
+* St Paul’s Birmingham
+
+![](/media/moseley-st-anne.jpg){: .align-right .width-half}
 
 # The Day and Programme
 
@@ -33,7 +43,7 @@ As some bands may be travelling from far afield, the local organisers will make 
 
 The final programme will depend on how many teams enter but the general principle will be: 
 
-* Morning towers available in the south Birmingham area
+* Morning ringing at [Strensham](https://dove.cccbr.org.uk/tower/15577) from 9:30 and [Stoulton](https://dove.cccbr.org.uk/tower/16881) from 10:00
 * Assemble at St Mary’s Moseley at noon for welcome and draw
 * Competition ringing in the afternoon, starting at 1pm
 * Ringing at St Anne’s Moseley in parallel  
@@ -80,8 +90,4 @@ Another feature of Devon Association competitions that will be replicated is the
 The Central Council has published an eBook called ‘Devon Call Changes’, written by Simon Linford with help from representatives of the Devon Association. It uses linked YouTube videos to explain the principles and details of the Devon call change ringing style, including a step by step video guide to ringing 60 on 3rds, based on an excellent performance by the Shaugh Prior band. It can be found here [callchanges.cccbr.org.uk](https://callchanges.cccbr.org.uk)
 
 The Association of Ringing Teachers has recently launched its ‘Advanced Call Change Ringing’ scheme, which introduces Devon call change ringing and includes tools and resources for aspiring call change bands. A toolkit can be found here [ringingteachers.org/advanced-call-change-toolbox](https://ringingteachers.org/advanced-call-change-toolbox)
-
-# What next?
-
-Entries for the competition should be sent to [callchanges@cccbr.org.uk](mailto:callchanges@cccbr.org.uk).
 
