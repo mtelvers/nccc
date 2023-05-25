@@ -71,7 +71,7 @@ In another change from Devon Association competitions, some practice on the bell
 
 Another feature of Devon Association competitions that will be replicated is the awarding of a trophy for “Best Ringing” which is the test piece which, in the opinion of the judges, had the best ringing in it for a sustained period of time. This will not necessarily be the team that has the top score but is a more subjective award maybe for the band whose ringing has the most panache. 
 
-![](/media/map.jpg){: .align-right .width-half}
+[![](/media/map.jpg){: .align-right .width-half}](/media/map.pdf)
 
 # Getting to Moseley and local map
 
