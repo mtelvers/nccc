@@ -1,14 +1,8 @@
 main:
-  - title: "Eligibility"
-    url: /#eligibility
-  - title: "Programme"
-    url: /#the-day-and-programme
-  - title: "Test Piece"
-    url: /#test-piece-and-judging
-  - title: "Best Ringing"
-    url: /#best-ringing
-  - title: "Learning"
-    url: /#learning-about-call-change-ringing
-  - title: "What next?"
-    url: /#what-next
+  - title: "Result"
+    url: /#result
+  - title: "Photographs"
+    url: /#photographs
+  - title: "Videos"
+    url: /#videos
 
