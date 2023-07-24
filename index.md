@@ -28,7 +28,7 @@ gallery3:
     title: "Enjoying the sunshine"
 ---
 
-# NATIONAL CALL CHANGE COMPETITON
+# NATIONAL CALL CHANGE COMPETITION
 {: .very-large}
 
 ![](/media/moseley-st-mary.jpg){: .align-right .width-half}
