@@ -1,80 +1,62 @@
 ---
 layout: splash
-title: 
+title:
 entries_layout: grid
 classes: wide
-gallery1:
-  - url: /media/winning-band.jpg
-    image_path: /media/winning-band.jpg
-    alt: ""
-    title: "Winning Band"
-gallery2:
-  - url: /media/judges.jpg
-    image_path: /media/judges.jpg
-    alt: ""
-    title: "Judges"
-gallery3:
-  - url: /media/watching-ringing.jpg
-    image_path: /media/watching-ringing.jpg
-    alt: ""
-    title: "Watching ringing"
-  - url: /media/discussing-call-changes.jpg
-    image_path: /media/discussing-call-changes.jpg
-    alt: ""
-    title: "Discussing call changes"
-  - url: /media/enjoying-the-sunshine.jpg
-    image_path: /media/enjoying-the-sunshine.jpg
-    alt: ""
-    title: "Enjoying the sunshine"
 ---
 
-# NATIONAL CALL CHANGE COMPETITION
+# NATIONAL CALL CHANGE COMPETITON
 {: .very-large}
 
-![](/media/moseley-st-mary.jpg){: .align-right .width-half}
+![](/media/lord-mayor-chapel-bristol.jpg){: .align-right .width-half}
 
-> Date:	Saturday 3rd June 2023   
-> Place:	[St Mary’s Moseley, Birmingham](https://dove.cccbr.org.uk/tower/16431) Front 6 (7cwt)
+> Date:	Saturday 1st June 2024    
+> Place:	[Lord Mayor’s Chapel, Bristol](https://dove.cccbr.org.uk/tower/14422)    
 
 The purpose of this national open call change competition is to widen the appreciation of and participation in competition call change ringing in the style practised in Devon and the south west of England.
 
-One of the Central Council’s Strategic Priorities is that method ringing should not be the only measure of success, and that good call change ringing can be a target for many bands. Ringers in the south west have demonstrated this with their culture of focus on competition call change ringing.
+The competition aims to mix bands from Devon and the South West who regularly compete in such competitions with traditional method ringing bands from further afield interested in practising this particular style.
 
-The competition mixed some really good exponents of competition call change ringing from Devon and the South West, with bands more used to method ringing.
+# Eligibility
 
-# Result
+The competition is open to any local band that is developing Devon-style call change ringing as part of its regular repertoire or keen to try their hands at this style of ringing.
 
-| Place | Band                    | Score | Rise | Top | Lower | Faults |
-| ----- | ----------------------- | ----- | ---- | --- | ----- | ------ |
-| 1st   | Kingsteignton 1         | 91%   | 10   | 72  | 9     | 15     |
-| 2nd   | St Paul's Birmingham    | 87%   | 8    | 69  | 10    | 18 1/2 |
-| 3rd   | Bow                     | 84%   | 9    | 66  | 9     | 20 1/2 |
-| 4th   | Broadhempston           | 80%   | 8    | 64  | 8     | 28     |
-| 5th   | Tiverton                | 79%   | 8    | 63  | 8     | 26 1/2 |
-| 6th   | St Mark's Cheltenham 1  | 75%   | 8    | 60  | 7     | 34 1/2 |
-| 7th   | Kingsteignton 2         | 73%   | 7    | 58  | 8     | 33 1/2 |
-| 8th   | Abbots Bromley          | 68%   | 2    | 60  | 6     | 48     |
-| 9th   | Bisley / Stroud Valleys | 62%   | 5    | 51  | 6     | 52 1/2 |
-| 10th  | East Anstey             | 54%   | 6    | 44  | 4     | 68     |
-| 11th  | Moseley                 | 53%   | 1    | 50  | 2     | 77     |
-| 12th  | Alton                   | 52%   | 4    | 47  | 1     | 83     |
-| 13th  | St Mark's Cheltenham 2  | 48%   | 4    | 40  | 4     | 84 1/2 |
+Eligibility of band members will not be strict, but the spirit of the contest is that this is for local bands rather than bands assembling specifically to enter a competition. A ‘local band’ need not necessarily all be from the same tower though, recognising that many bands now cover a number of towers, or cluster together for learning and practice. Entries from university societies would be welcome.
 
-> The scoring system used by the judges allocated a maximum of 10% of the total score to the rise, 10% to the lower, and 80% to the top ringing (the call changes). This gave a score out of 100 expressed as a percentage. Out of interest, the judges also provided the faults scores that would have determined the contest under Devon Association rules. The top three positions would have been the same, with some places swapped lower down.						
+# The Day and Programme
 
-# Photographs
+As some bands may be travelling from far afield, the local organisers will make sure there is a day of ringing available, in or around Bristol.
 
-{% include gallery id="gallery1" caption="Winning band (left to right) James Grant, Will Carew, Suzanne Driscoll, Elaine Grant, Eva Lee, Graham Sharland" %}
+The final programme will depend on how many teams enter but the general principle will be:
 
-{% include gallery id="gallery2" caption="Judges Paul Pascoe and Ian Avery" %}
+* Morning towers available in Bristol and environs
+* Assemble at the Lord Mayor’s Chapel around noon
+* Competition ringing in the afternoon
+* Ringing at other Bristol towers in parallel
+* Late afternoon tea and results (conclude by 6pm)
+* Open ringing to be confirmed
 
-{% include gallery id="gallery3" caption="2023 National Call Change Competition" %}
+# Test Piece and Judging
 
-# Videos
- 
-{% include video id="Tm5QJdhdjl4" provider="youtube" %}
-Part of Kingsteignton’s winning peal
- 
-{% include video id="yacSb60XUmI" provider="youtube" %}
-Part of St Paul’s Birmingham’s peal, placed second
- 
+Central to the test piece will be the call change sequence that is used in Devon Association competitions called “60 on 3rds”. This is a sequence of 60 changes that is fully explained in the eBook on call change ringing [callchanges.cccbr.org.uk](https://callchanges.cccbr.org.uk). The sequence is printed in the Ringing World diary and easily found with a Google search such as this on the [Devon Association website](https://www.devonbells.co.uk/wp-content/uploads/2020/03/sixties_on_thirds.pdf).
+
+As in Devon Association competitions, the test piece will include the raise and lower, with all of the ringing judged. This is the format of Devon Association competitions.
+
+The Judges are hoping to hear closed handstroke leads, which is the style practiced in Devon, but open handstroke leads will not be penalised provided they are consistent.
+
+In order to enable as many bands to compete as possible in the time available there will be no practising on the bells, which is how Devon Association competitions are run, but there will be opportunities to practice in the morning at other towers.
+
+# Best Ringing
+
+Another feature of Devon Association competitions that will be replicated is the awarding of a trophy for “Best Ringing” which is the test piece which, in the opinion of the judges, had the best ringing in it for a sustained period of time. This will not necessarily be the team that has the top score but is a more subjective award maybe for the band whose ringing has the most panache.
+
+# Learning about call change ringing
+
+The Central Council has published an eBook called ‘Devon Call Changes’, written by Simon Linford with help from representatives of the Devon Association. It uses linked YouTube videos to explain the principles and details of the Devon call change ringing style, including a step by step video guide to ringing 60 on 3rds, based on an excellent performance by the Shaugh Prior band. It can be found here [callchanges.cccbr.org.uk](https://callchanges.cccbr.org.uk)
+
+The Association of Ringing Teachers has recently launched its ‘Advanced Call Change Ringing’ scheme, which introduces Devon call change ringing and includes tools and resources for aspiring call change bands. A toolkit can be found here [ringingteachers.org/advanced-call-change-toolbox](https://ringingteachers.org/advanced-call-change-toolbox)
+
+# What next?
+
+Expressions of interest should be sent to callchanges@cccbr.org.uk by 31st December. This will not be binding or an official entry, but will enable the organisers to plan the day. A formal request for entries with a firm timetable will then be made by the end of January.
+

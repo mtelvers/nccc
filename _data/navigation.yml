@@ -1,8 +1,5 @@
 main:
-  - title: "Result"
-    url: /#result
-  - title: "Photographs"
-    url: /#photographs
-  - title: "Videos"
-    url: /#videos
-
+  - title: "2024 Competition"
+    url: /
+  - title: "Past Competitions"
+    url: past
