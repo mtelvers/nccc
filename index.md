@@ -11,7 +11,7 @@ classes: wide
 ![](/media/lord-mayor-chapel-bristol.jpg){: .align-right .width-half}
 
 > Date:	Saturday 1st June 2024    
-> Place:	[Lord Mayor’s Chapel, Bristol](https://dove.cccbr.org.uk/tower/14422)    
+> Place: [Lord Mayor’s Chapel, Bristol](https://dove.cccbr.org.uk/tower/14422)    
 
 The purpose of this national open call change competition is to widen the appreciation of and participation in competition call change ringing in the style practised in Devon and the south west of England.
 
@@ -29,12 +29,15 @@ As some bands may be travelling from far afield, the local organisers will make 
 
 The final programme will depend on how many teams enter but the general principle will be:
 
-* Morning towers available in Bristol and environs
 * Assemble at the Lord Mayor’s Chapel around noon
 * Competition ringing in the afternoon
 * Ringing at other Bristol towers in parallel
 * Late afternoon tea and results (conclude by 6pm)
 * Open ringing to be confirmed
+
+> _I am pleased that the National Call Change Competition is coming back for a second year, building on the success of the Moseley event. The Council represents exponents of all styles of change ringing and the emphasis on striking achieved in Devon Call Change competitions is something all bands could aspire to._  
+> 
+> Tina Stoecklin, President CCCBR
 
 # Test Piece and Judging
 
