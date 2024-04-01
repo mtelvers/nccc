@@ -53,6 +53,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 .flex-container {
     display: flex;
+    margin: 0px 0px 1.3em;
 }
 
 .flex-child {
@@ -60,7 +61,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 }
 
 ul.no-bullets {
-  list-style-type: none; /* Remove bullets */
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margins */
+  list-style-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
 }

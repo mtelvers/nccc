@@ -55,14 +55,15 @@ We have received entries from:
 
 # The Day and Programme
 
-As some bands may be travelling from far afield, the local organisers will make sure there is a day of ringing available, in or around Bristol.
+As some bands are travelling from far afield, the organisers will make sure there other ringing in Bristol available during the day.
 
-The final programme will depend on how many teams enter but the general principle will be:
+The final programme will depend on how many teams are confirmed but the general principle will be:
 
-* Assemble at the Lord Mayor’s Chapel around noon
+* Assemble at the Costa next to the Lord Mayor’s Chapel from 11:30
+* 12 noon draw
 * Competition ringing in the afternoon
 * Ringing at other Bristol towers in parallel
-* Late afternoon tea and results (conclude by 6pm)
+* Late afternoon results (conclude by 6pm)
 * Open ringing to be confirmed
 
 > _I am pleased that the National Call Change Competition is coming back for a second year, building on the success of the Moseley event. The Council represents exponents of all styles of change ringing and the emphasis on striking achieved in Devon Call Change competitions is something all bands could aspire to._  
@@ -83,15 +84,6 @@ In order to enable as many bands to compete as possible in the time available th
 
 Our judges are Owen Borlaise and Chris Kippin. Owen is a well known judge of Devon Association competitions. Chris is best known for judging competitions outside Devon but did sit and judge alongside the judges at the Major Final a few years ago. Apparently he judged more harshly than the local judges! There may be a third judge to be confirmed.
 
-
-# Replacement text for What Next
-
-We are now closed for entries and are continuing to plan the day. A further update will be sent around the end of April and then a draw to put the teams in three time blocks (allowing them to plan the day) will be done two weeks ahead of the competition.
-
-# Travel and Parking
-
-Travelling by train is recommended for those just wanting to ring in Bristol rather than stop off on the way for any practice ringing. Parking in the centre of Bristol is expensive, with the cheapest option being [Trenchard](https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/trenchard-street-long-stay-car-park). You may find that using an app such as JustPark will find you a space in an office car park or residential street at  lower price.
-
 # Best Ringing
 
 Another feature of Devon Association competitions that will be replicated is the awarding of a trophy for “Best Ringing” which is the test piece which, in the opinion of the judges, had the best ringing in it for a sustained period of time. This will not necessarily be the team that has the top score but is a more subjective award maybe for the band whose ringing has the most panache.
@@ -104,5 +96,9 @@ The Association of Ringing Teachers has recently launched its ‘Advanced Call C
 
 # What next?
 
-Expressions of interest should be sent to callchanges@cccbr.org.uk by 31st December. This will not be binding or an official entry, but will enable the organisers to plan the day. A formal request for entries with a firm timetable will then be made by the end of January.
+We are now closed for entries and are continuing to plan the day. A further update will be sent around the end of April and then a draw to put the teams in three time blocks (allowing them to plan the day) will be done two weeks ahead of the competition.
+
+# Travel and Parking
+
+Travelling by train is recommended for those just wanting to ring in Bristol rather than stop off on the way for any practice ringing. Parking in the centre of Bristol is expensive, with the cheapest option being [Trenchard](https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/trenchard-street-long-stay-car-park). You may find that using an app such as JustPark will find you a space in an office car park or residential street at  lower price.
 
