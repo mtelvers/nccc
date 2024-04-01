@@ -50,3 +50,17 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 .very-large {
     font-size: 300%
 }
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}

@@ -17,11 +17,41 @@ The purpose of this national open call change competition is to widen the apprec
 
 The competition aims to mix bands from Devon and the South West who regularly compete in such competitions with traditional method ringing bands from further afield interested in practising this particular style.
 
-# Eligibility
+# Entries
 
-The competition is open to any local band that is developing Devon-style call change ringing as part of its regular repertoire or keen to try their hands at this style of ringing.
+We have received entries from:
 
-Eligibility of band members will not be strict, but the spirit of the contest is that this is for local bands rather than bands assembling specifically to enter a competition. A ‘local band’ need not necessarily all be from the same tower though, recognising that many bands now cover a number of towers, or cluster together for learning and practice. Entries from university societies would be welcome.
+<div class="flex-container">
+
+  <div class="flex-child magenta">
+  <ul class="no-bullets">
+    <li>South Brent</li>
+    <li>Bath & Wells</li>
+    <li>Broadhempston</li>
+    <li>Cheltenham</li>
+    <li>Kingsteignton</li>
+  </ul>
+  </div>
+
+  <div class="flex-child green">
+  <ul class="no-bullets">
+    <li>Kernow Callies</li>
+    <li>Tiverton</li>
+    <li>Alton</li>
+    <li>St Paul's Birmingham</li>
+  </ul>
+  </div>
+
+  <div class="flex-child green">
+  <ul class="no-bullets">
+    <li>Bristol Cathedral</li>
+    <li>Bow</li>
+    <li>Moseley</li>
+    <li>Exeter St David's</li>
+  </ul>
+  </div>
+
+</div>
 
 # The Day and Programme
 
@@ -48,6 +78,19 @@ As in Devon Association competitions, the test piece will include the raise and 
 The Judges are hoping to hear closed handstroke leads, which is the style practiced in Devon, but open handstroke leads will not be penalised provided they are consistent.
 
 In order to enable as many bands to compete as possible in the time available there will be no practising on the bells, which is how Devon Association competitions are run, but there will be opportunities to practice in the morning at other towers.
+
+# Judging
+
+Our judges are Owen Borlaise and Chris Kippin. Owen is a well known judge of Devon Association competitions. Chris is best known for judging competitions outside Devon but did sit and judge alongside the judges at the Major Final a few years ago. Apparently he judged more harshly than the local judges! There may be a third judge to be confirmed.
+
+
+# Replacement text for What Next
+
+We are now closed for entries and are continuing to plan the day. A further update will be sent around the end of April and then a draw to put the teams in three time blocks (allowing them to plan the day) will be done two weeks ahead of the competition.
+
+# Travel and Parking
+
+Travelling by train is recommended for those just wanting to ring in Bristol rather than stop off on the way for any practice ringing. Parking in the centre of Bristol is expensive, with the cheapest option being [Trenchard](https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/trenchard-street-long-stay-car-park). You may find that using an app such as JustPark will find you a space in an office car park or residential street at  lower price.
 
 # Best Ringing
 
