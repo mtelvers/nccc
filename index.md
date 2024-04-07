@@ -26,9 +26,9 @@ We have received entries from:
   <div class="flex-child magenta">
   <ul class="no-bullets">
     <li>South Brent</li>
-    <li>Bath & Wells</li>
+    <li>Bath and Wells</li>
     <li>Broadhempston</li>
-    <li>Cheltenham</li>
+    <li>St Mark's, Cheltenham</li>
     <li>Kingsteignton</li>
   </ul>
   </div>
