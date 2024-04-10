@@ -39,6 +39,7 @@ We have received entries from:
     <li>Tiverton</li>
     <li>Alton</li>
     <li>St Paul's Birmingham</li>
+    <li>Stroud Valleys</li>
   </ul>
   </div>
 
