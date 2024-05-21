@@ -19,7 +19,7 @@ The competition aims to mix bands from Devon and the South West who regularly co
 
 # Entries
 
-We have received entries from:
+The 2024 competition will be contested by the following teams:
 
 <div class="flex-container">
 
@@ -47,7 +47,6 @@ We have received entries from:
   <ul class="no-bullets">
     <li>Bristol Cathedral</li>
     <li>Bow</li>
-    <li>Moseley</li>
     <li>Exeter St David's</li>
   </ul>
   </div>
@@ -62,10 +61,10 @@ The final programme will depend on how many teams are confirmed but the general 
 
 * Assemble at the Costa next to the Lord Mayor’s Chapel from 11:30
 * 12 noon draw
-* Competition ringing in the afternoon
+* Competition ringing between 12:20 and 5:20
 * Ringing at other Bristol towers in parallel
-* Late afternoon results (conclude by 6pm)
-* Open ringing to be confirmed
+* Results at 6:00
+* Open ringing at St Michael's (11:00 - 12:30), St Mary, Radcliffe (1:30 - 3:00) and Southville (3:00 - 4:00)
 
 > _I am pleased that the National Call Change Competition is coming back for a second year, building on the success of the Moseley event. The Council represents exponents of all styles of change ringing and the emphasis on striking achieved in Devon Call Change competitions is something all bands could aspire to._  
 > 
@@ -79,11 +78,11 @@ As in Devon Association competitions, the test piece will include the raise and 
 
 The Judges are hoping to hear closed handstroke leads, which is the style practiced in Devon, but open handstroke leads will not be penalised provided they are consistent.
 
-In order to enable as many bands to compete as possible in the time available there will be no practising on the bells, which is how Devon Association competitions are run, but there will be opportunities to practice in the morning at other towers.
+In order to enable as many bands to compete as possible in the time available there will be no practising on the bells, which is how Devon Association competitions are run.
 
 # Judging
 
-Our judges are Owen Borlaise and Chris Kippin. Owen is a well known judge of Devon Association competitions. Chris is best known for judging competitions outside Devon but did sit and judge alongside the judges at the Major Final a few years ago. Apparently he judged more harshly than the local judges! There may be a third judge to be confirmed.
+Our judges are Owen Borlaise and Chris Kippin. Owen is a well known judge of Devon Association competitions. Chris is best known for judging competitions outside Devon but did sit and judge alongside the judges at the Major Final a few years ago. Apparently he judged more harshly than the local judges!
 
 # Best Ringing
 
@@ -94,10 +93,6 @@ Another feature of Devon Association competitions that will be replicated is the
 The Central Council has published an eBook called ‘Devon Call Changes’, written by Simon Linford with help from representatives of the Devon Association. It uses linked YouTube videos to explain the principles and details of the Devon call change ringing style, including a step by step video guide to ringing 60 on 3rds, based on an excellent performance by the Shaugh Prior band. It can be found here [callchanges.cccbr.org.uk](https://callchanges.cccbr.org.uk)
 
 The Association of Ringing Teachers has recently launched its ‘Advanced Call Change Ringing’ scheme, which introduces Devon call change ringing and includes tools and resources for aspiring call change bands. A toolkit can be found here [ringingteachers.org/advanced-call-change-toolbox](https://ringingteachers.org/advanced-call-change-toolbox)
-
-# What next?
-
-We are now closed for entries and are continuing to plan the day. A further update will be sent around the end of April and then a draw to put the teams in three time blocks (allowing them to plan the day) will be done two weeks ahead of the competition.
 
 # Travel and Parking
 
