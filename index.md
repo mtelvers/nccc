@@ -64,7 +64,7 @@ The final programme will depend on how many teams are confirmed but the general 
 * Competition ringing between 12:20 and 5:20
 * Ringing at other Bristol towers in parallel
 * Results at 6:00
-* Open ringing at St Michael's (11:00 - 12:30), St Mary, Radcliffe (1:30 - 3:00) and Southville (3:00 - 4:00)
+* Open ringing at St Michael's (11:00 - 12:30), St Mary, Redcliffe (1:30 - 3:00) and Southville (3:00 - 4:00)
 
 > _I am pleased that the National Call Change Competition is coming back for a second year, building on the success of the Moseley event. The Council represents exponents of all styles of change ringing and the emphasis on striking achieved in Devon Call Change competitions is something all bands could aspire to._  
 > 
