@@ -57,14 +57,15 @@ The 2024 competition will be contested by the following teams:
 
 As some bands are travelling from far afield, the organisers will make sure there other ringing in Bristol available during the day.
 
-The final programme will depend on how many teams are confirmed but the general principle will be:
+The programme for the day is as follows:
 
 * Assemble at the Costa next to the Lord Mayor’s Chapel from 11:30
 * 12 noon draw
 * Competition ringing between 12:20 and 5:20
-* Ringing at other Bristol towers in parallel
 * Results at 6:00
 * Open ringing at St Michael's (11:00 - 12:30), St Mary, Redcliffe (1:30 - 3:00) and Southville (3:00 - 4:00)
+
+![](/media/bristol-map.png){: .align-right .width-half}
 
 > _I am pleased that the National Call Change Competition is coming back for a second year, building on the success of the Moseley event. The Council represents exponents of all styles of change ringing and the emphasis on striking achieved in Devon Call Change competitions is something all bands could aspire to._  
 > 
@@ -97,4 +98,9 @@ The Association of Ringing Teachers has recently launched its ‘Advanced Call C
 # Travel and Parking
 
 Travelling by train is recommended for those just wanting to ring in Bristol rather than stop off on the way for any practice ringing. Parking in the centre of Bristol is expensive, with the cheapest option being [Trenchard](https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/trenchard-street-long-stay-car-park). You may find that using an app such as JustPark will find you a space in an office car park or residential street at  lower price.
+
+# Downloads
+
+* [Bristol Map](/media/bristol-map.png)
+* [LMC Information](/media/lmc-6-bell-info-sheet.pdf)
 
