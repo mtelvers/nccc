@@ -55,8 +55,6 @@ The 2024 competition will be contested by the following teams:
 
 # The Day and Programme
 
-As some bands are travelling from far afield, the organisers will make sure there other ringing in Bristol available during the day.
-
 [![](/media/bristol-map.png){: .align-right .width-half}](/media/bristol-map.png)
 
 The programme for the day is as follows:
