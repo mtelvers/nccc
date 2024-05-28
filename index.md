@@ -81,7 +81,7 @@ In order to enable as many bands to compete as possible in the time available th
 
 # Judging
 
-Our judges are Owen Borlaise and Chris Kippin. Owen is a well known judge of Devon Association competitions. Chris is best known for judging competitions outside Devon but did sit and judge alongside the judges at the Major Final a few years ago. Apparently he judged more harshly than the local judges!
+Our judges are Owen Borlase and Chris Kippin. Owen is a well known judge of Devon Association competitions. Chris is best known for judging competitions outside Devon but did sit and judge alongside the judges at the Major Final a few years ago. Apparently he judged more harshly than the local judges!
 
 # Best Ringing
 
