@@ -8,10 +8,10 @@ classes: wide
 # NATIONAL CALL CHANGE COMPETITON
 {: .very-large}
 
-![](/media/2024/lord-mayor-chapel-bristol.jpg){: .align-right .width-half}
+![](/media/2025/st-bartholomew-coaley.jpg){: .align-right .width-half}
 
-> Date:	Saturday 1st June 2024    
-> Place: [Lord Mayor’s Chapel, Bristol](https://dove.cccbr.org.uk/tower/14422)    
+> Date:	Saturday 7th June 2025    
+> Place: [Coaley, Gloucestershire](https://dove.cccbr.org.uk/tower/15614)    
 
 The purpose of this national open call change competition is to widen the appreciation of and participation in competition call change ringing in the style practised in Devon and the south west of England.
 
@@ -19,55 +19,24 @@ The competition aims to mix bands from Devon and the South West who regularly co
 
 # Entries
 
-The 2024 competition will be contested by the following teams:
+Expressions of interest are now invited for the 2025 competition, to be received by 28 February. Based on the number of teams entering we will then consider if some form of draw for entry as the total number of teams will be limited to 16 (tbc).
+Confirmed entries by 31 March.
 
-<div class="flex-container">
-
-  <div class="flex-child magenta">
-  <ul class="no-bullets">
-    <li>South Brent</li>
-    <li>Bath and Wells</li>
-    <li>Broadhempston</li>
-    <li>St Mark's, Cheltenham</li>
-    <li>Kingsteignton</li>
-  </ul>
-  </div>
-
-  <div class="flex-child green">
-  <ul class="no-bullets">
-    <li>Kernow Callies</li>
-    <li>Tiverton</li>
-    <li>Alton</li>
-    <li>St Paul's Birmingham</li>
-    <li>Stroud Valleys</li>
-  </ul>
-  </div>
-
-  <div class="flex-child green">
-  <ul class="no-bullets">
-    <li>Bristol Cathedral</li>
-    <li>Bow</li>
-    <li>Exeter St David's</li>
-  </ul>
-  </div>
-
-</div>
+An entry fee of £10 per team will be requested to cover costs of the competition
 
 # The Day and Programme
 
-[![](/media/2024/bristol-map.png){: .align-right .width-half}](/media/2024/bristol-map.png)
-
 The programme for the day is as follows:
 
-* Assemble at the Costa next to the Lord Mayor’s Chapel from 11:30
-* 12 noon draw
-* Competition ringing between 12:20 and 5:20
-* Results at 6:00
-* Open ringing at St Michael's (11:30 - 1:00), St Mary, Redcliffe (1:30 - 3:00) and Southville (3:00 - 4:00)
-
-> _I am pleased that the National Call Change Competition is coming back for a second year, building on the success of the Moseley event. The Council represents exponents of all styles of change ringing and the emphasis on striking achieved in Devon Call Change competitions is something all bands could aspire to._  
-> 
-> Tina Stoecklin, President CCCBR
+- Refreshments and toilets available in the Church and the Community shop from 9.30
+- 10.45 welcome and draw in Coaley Church
+- 11.15 to 4.45 competition ringing
+- Other local towers available for ringing during the afternoon
+- Lunch available in the village hall between 12 and 2
+- Bar open in Coaley village hall opens at 3 -  drinks and snacks available to purchase.
+- Fish and Chips available to collect from Coaley Village Hall at 5.30
+- Results at 6pm in the church
+- Bar closes at 8
 
 # Test Piece and Judging
 
@@ -81,7 +50,7 @@ In order to enable as many bands to compete as possible in the time available th
 
 # Judging
 
-Our judges are Owen Borlase and Chris Kippin. Owen is a well known judge of Devon Association competitions. Chris is best known for judging competitions outside Devon but did sit and judge alongside the judges at the Major Final a few years ago. Apparently he judged more harshly than the local judges!
+To be appointed.
 
 # Best Ringing
 
@@ -92,13 +61,3 @@ Another feature of Devon Association competitions that will be replicated is the
 The Central Council has published an eBook called ‘Devon Call Changes’, written by Simon Linford with help from representatives of the Devon Association. It uses linked YouTube videos to explain the principles and details of the Devon call change ringing style, including a step by step video guide to ringing 60 on 3rds, based on an excellent performance by the Shaugh Prior band. It can be found here [callchanges.cccbr.org.uk](https://callchanges.cccbr.org.uk)
 
 The Association of Ringing Teachers has recently launched its ‘Advanced Call Change Ringing’ scheme, which introduces Devon call change ringing and includes tools and resources for aspiring call change bands. A toolkit can be found here [ringingteachers.org/advanced-call-change-toolbox](https://ringingteachers.org/advanced-call-change-toolbox)
-
-# Travel and Parking
-
-Travelling by train is recommended for those just wanting to ring in Bristol rather than stop off on the way for any practice ringing. Parking in the centre of Bristol is expensive, with the cheapest option being [Trenchard](https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/trenchard-street-long-stay-car-park). You may find that using an app such as JustPark will find you a space in an office car park or residential street at  lower price.
-
-# Downloads
-
-* [Bristol Map](/media/2024/bristol-map.png)
-* [LMC Information](/media/2024/lmc-6-bell-info-sheet.pdf)
-
