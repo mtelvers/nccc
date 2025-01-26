@@ -19,8 +19,7 @@ The competition aims to mix bands from Devon and the South West who regularly co
 
 # Entries
 
-Expressions of interest are now invited for the 2025 competition, to be received by 28 February. Based on the number of teams entering we will then consider if some form of draw for entry as the total number of teams will be limited to 16 (tbc).
-Confirmed entries by 31 March.
+Expressions of interest are now invited for the 2025 competition, to be received by 28 February. Send them to callchanges@cccbr.org.uk. Based on the number of teams entering we will then consider if some form of draw for entry as the total number of teams will be limited to 16 (tbc). Confirmed entries by 31 March.
 
 An entry fee of £10 per team will be requested to cover costs of the competition
 
