@@ -19,9 +19,22 @@ The competition aims to mix bands from Devon and the South West who regularly co
 
 # Entries
 
-Expressions of interest are now invited for the 2025 competition, to be received by 28 February. Send them to callchanges@cccbr.org.uk. Based on the number of teams entering we will then consider if some form of draw for entry as the total number of teams will be limited to 16 (tbc). Confirmed entries by 31 March.
+Entries are now closed and there are 14 teams competing.
 
-An entry fee of £10 per team will be requested to cover costs of the competition
+- Corneeesh Creeeem
+- South Brent
+- Kenton, Exeter
+- Bow
+- Broadhempston
+- Tiverton St Paul
+- Bisley
+- St Paul's Birmingham
+- Kingsteignton
+- Cheltenham St Mark
+- Anstey
+- Moseley
+- Bristol
+- Stoke Gabriel
 
 # The Day and Programme
 
@@ -37,6 +50,8 @@ The programme for the day is as follows:
 - Results at 6pm in the church
 - Bar closes at 8
 
+Full details of the day along with the arrangements for open tower can be found [here](/media/nccc-local-arrangements.pdf).
+
 # Test Piece and Judging
 
 Central to the test piece will be the call change sequence that is used in Devon Association competitions called “60 on 3rds”. This is a sequence of 60 changes that is fully explained in the eBook on call change ringing [callchanges.cccbr.org.uk](https://callchanges.cccbr.org.uk). The sequence is printed in the Ringing World diary and easily found with a Google search such as this on the [Devon Association website](https://www.devonbells.co.uk/wp-content/uploads/2020/03/sixties_on_thirds.pdf).
@@ -49,7 +64,8 @@ In order to enable as many bands to compete as possible in the time available th
 
 # Judging
 
-To be appointed.
+Matthew Hilling (Exeter)\
+One other tbc
 
 # Best Ringing
 
