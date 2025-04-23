@@ -65,7 +65,7 @@ In order to enable as many bands to compete as possible in the time available th
 # Judging
 
 Matthew Hilling (Exeter)\
-One other tbc
+Chris Poole (Stonehouse)
 
 # Best Ringing
 
