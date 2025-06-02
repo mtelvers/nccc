@@ -41,16 +41,16 @@ Entries are now closed and there are 14 teams competing.
 The programme for the day is as follows:
 
 - Refreshments and toilets available in the Church and the Community shop from 9.30
-- 10.45 welcome and draw in Coaley Church
+- 10.45 welcome in Coaley Church
 - 11.15 to 4.45 competition ringing
 - Other local towers available for ringing during the afternoon
 - Lunch available in the village hall between 12 and 2
 - Bar open in Coaley village hall opens at 3 -  drinks and snacks available to purchase.
 - Fish and Chips available to collect from Coaley Village Hall at 5.30
-- Results at 6pm in the church
+- Results at 6pm in the church (or 5.30 if ready)
 - Bar closes at 8
 
-Full details of the day along with the arrangements for open tower can be found [here](/media/nccc-local-arrangements.pdf).
+Full details of the day along with the arrangements for open tower can be found [here](/media/nccc-open-towers.pdf).
 
 # Test Piece and Judging
 
